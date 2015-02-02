@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="best_string">No best fit </string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+     <string name="voice_input"> Enter something via voice! </string>
+    <string name="app_name">Final.Project.Deshpande.Ameya</string>
+    <string name="app_label">CallBS</string>
+    <string name="search_hint">Query a statistic!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="api_signature">CEU0800000003</string>
+    <string name="seasonally_adjusted">S</string>
+    <string name="not_seasonally_adjusted">U</string>
+    <string name="supersector_total_nonfarm">00</string>	
+	<string name="supersector_total_private">05</string>	
+	<string name="supersector_goods_producing">06</string>	
+	<string name="supersector_service_providing">07</string>	
+	<string name="supersector_private_service_providing">08</string>	
+	<string name="supersector_mining_and_logging">10</string>	
+	<string name="supersector_construction">20</string>	
+	<string name="supersector_manufacturing	">30</string>
+	<string name="supersector_durable_goods">31</string>	
+	<string name="supersector_nondurable_goods">32</string>	
+	<string name="supersector_trade_transportation_and_utilities">40</string>	
+	<string name="supersector_wholesale_trade">41</string>	
+	<string name="supersector_retail_trade">42</string>	
+	<string name="supersector_transportation_and_warehousing">43</string>
+	<string name="supersector_utilities">44</string>	
+	<string name="supersector_information">50</string>	
+	<string name="supersector_financial_activities">55</string>	
+	<string name="supersector_professional_and_business_services">60</string>	
+	<string name="supersector_education_and_health_services">65</string>	
+	<string name="supersector_leisure_and_hospitality">70</string>	
+	<string name="supersector_other_services">80</string>	
+	<string name="supersector_government">90</string>
+
+	<string name="datatype_ALL_EMPLOYEES_THOUSANDS">01</string>	
+	<string name="datatype_AVERAGE_WEEKLY_HOURS_OF_ALL_EMPLOYEES">02</string>		
+	<string name="datatype_AVERAGE_HOURLY_EARNINGS_OF_ALL_EMPLOYEES">03</string>		
+	<string name="datatype_AVERAGE_WEEKLY_OVERTIME_HOURS_OF_ALL_EMPLOYEES">04</string>	
+	<string name="datatype_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES_THOUSANDS">06</string>	
+	<string name="datatype_AVERAGE_WEEKLY_HOURS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES">07</string>		
+	<string name="datatype_AVERAGE_HOURLY_EARNINGS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES">08</string>		
+	<string name="datatype_AVERAGE_WEEKLY_OVERTIME_HOURS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES">09</string>		
+	<string name="datatype_WOMEN_EMPLOYEES_THOUSANDS">10</string>		
+	<string name="datatype_AVERAGE_WEEKLY_EARNINGS_OF_ALL_EMPLOYEES">11</string>		
+	<string name="datatype_AVERAGE_WEEKLY_EARNINGS_OF_ALL_EMPLOYEES_1982_1984_DOLLARS">12</string>		
+	<string name="datatype_AVERAGE_HOURLY_EARNINGS_OF_ALL_EMPLOYEES_1982_1984_DOLLARS">13</string>		
+	<string name="datatype_AVERAGE_HOURLY_EARNINGS_OF_ALL_EMPLOYEES_EXCLUDING_OVERTIME">15</string>		
+	<string name="datatype_INDEXES_OF_AGGREGATE_WEEKLY_HOURS_OF_ALL_EMPLOYEES_2007">16</string>		
+	<string name="datatype_INDEXES_OF_AGGREGATE_WEEKLY_PAYROLLS_OF_ALL_EMPLOYEES_2007">17</string>		
+	<string name="datatype_AVERAGE_WEEKLY_HOURS_OF_ALL_EMPLOYEES_QUARTERLY_AVERAGES_SEASONALLY_ADJUSTED">19</string>		
+	<string name="datatype_AVERAGE_WEEKLY_OVERTIME_HOURS_OF_ALL_EMPLOYEES_QUARTERLY_AVERAGES_SEASONALLY_ADJUSTED">20</string>		
+	<string name="datatype_DIFFUSION_INDEXES_1_MONTH_SPAN_SEASONALLY_ADJUSTED">21</string>		
+	<string name="datatype_DIFFUSION_INDEXES_3_MONTH_SPAN_SEASONALLY_ADJUSTED">22</string>		
+	<string name="datatype_DIFFUSION_INDEXES_6_MONTH_SPAN_SEASONALLY_ADJUSTED">23</string>		
+	<string name="datatype_DIFFUSION_INDEXES_12_MONTH_SPAN_NOT_SEASONALLY_ADJUSTED">24</string>		
+	<string name="datatype_ALL_EMPLOYEES_QUARTERLY_AVERAGES_SEASONALLY_ADJUSTED_THOUSANDS">25</string>		
+	<string name="datatype_AVERAGE_WEEKLY_EARNINGS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES">30</string>		
+	<string name="datatype_AVERAGE_WEEKLY_EARNINGS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES_1982_84_DOLLARS">31</string>		
+	<string name="datatype_AVERAGE_HOURLY_EARNINGS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES_1982_84_DOLLARS">32</string>		
+	<string name="datatype_AVERAGE_HOURLY_EARNINGS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES_EXCLUDING_OVERTIME">33</string>		
+	<string name="datatype_INDEXES_OF_AGGREGATE_WEEKLY_HOURS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES_2002">34</string>		
+	<string name="datatype_INDEXES_OF_AGGREGATE_WEEKLY_PAYROLLS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES_2002">35</string>		
+	<string name="datatype_AVERAGE_WEEKLY_HOURS_PRODUCTION_NONSUPERVISORY_EMPLOYEES_QUARTERLY_AVERAGES_SEASONALLY_ADJUSTED">36</string>		
+	<string name="datatype_AVERAGE_WEEKLY_OVERTIME_HOURS_PRODUCTION_NONSUPERVISORY_EMPLOYEES_QUARTERLY_AVG_SEASONALLY_ADJUSTED">37</string>		
+	<string name="datatype_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES_TO_ALL_EMPLOYEES_RATIO">38</string>		
+	<string name="datatype_WOMEN_EMPLOYEES_TO_ALL_EMPLOYEES_RATIO">39</string>		
+	<string name="datatype_AGGREGATE_WEEKLY_HOURS_OF_ALL_EMPLOYEES_THOUSANDS">56</string>		
+	<string name="datatype_AGGREGATE_WEEKLY_PAYROLLS_OF_ALL_EMPLOYEES_THOUSANDS">57</string>		
+	<string name="datatype_AGGREGATE_WEEKLY_OVERTIME_HOURS_OF_ALL_EMPLOYEES_THOUSANDS">58</string>		
+	<string name="datatype_AGGREGATE_WEEKLY_HOURS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES_THOUSANDS">81</string>		
+	<string name="datatype_AGGREGATE_WEEKLY_PAYROLLS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES_THOUSANDS">82</string>		
+	<string name="datatype_AGGREGATE_WEEKLY_OVERTIME_HOURS_OF_PRODUCTION_AND_NONSUPERVISORY_EMPLOYEES_THOUSANDS">83</string>
+	
+	<string name="Hello_Blurb">Welcome to CallBS! The app that lets you validate statistics with the click of a button </string>
+	<string name="Instructional_Blurb"> Type in the search bar, click the search symbol and press the arrow at the top right of the screeen!</string>
+	
+	
+    
+    <string-array name="states">
+        <item>Alabama</item>
+        <item>Alaska</item>
+        <item>American Samoa</item>
+        <item>Arizona</item>
+        <item>Arkansas</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>Delaware</item>
+        <item>District of Columbia</item>
+        <item>Florida</item>
+        <item>Georgia</item>
+        <item>Guam</item>
+        <item>Hawaii</item>
+        <item>Idaho</item>
+        <item>Illinois</item>
+        <item>Indiana</item>
+        <item>Iowa</item>
+        <item>Kansas</item>
+        <item>Kentucky</item>
+        <item>Louisiana</item>
+        <item>Maine</item>
+        <item>Maryland</item>
+        <item>Massachusetts</item>
+        <item>Michigan</item>
+        <item>Minnesota</item>
+        <item>Mississippi</item>
+        <item>Missouri</item>
+        <item>Montana</item>
+        <item>Nebraska</item>
+        <item>Nevada</item>
+        <item>New Hampshire</item>
+        <item>New Jersey</item>
+        <item>New Mexico</item>
+        <item>New York</item>
+        <item>North Carolina</item>
+        <item>North Dakota</item>
+        <item>Northern Marianas Islands</item>
+        <item>Ohio</item>
+        <item>Oklahoma</item>
+        <item>Oregon</item>
+        <item>Pennsylvania</item>
+        <item>Puerto Rico</item>
+        <item>Rhode Island</item>
+        <item>South Carolina</item>
+        <item>South Dakota</item>
+        <item>Tennessee</item>
+        <item>Texas</item>
+        <item>Utah</item>
+        <item>Vermont</item>
+        <item>Virginia</item>
+        <item>Virgin Islands</item>
+        <item>Washington</item>
+        <item>West Virginia</item>
+        <item>Wisconsin</item>
+        <item>Wyoming</item>
+    </string-array>
+    
+    
+<string-array name="text_exhaustive">
+<item>  ALL EMPLOYEES, THOUSANDS Total nonfarm	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Total private	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Goods-producing	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Service-providing	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Private service-providing	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Mining and logging	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Construction	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Manufacturing	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Durable Goods	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Nondurable Goods	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Trade, transportation, and utilities	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Wholesale trade	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Retail trade	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Transportation and warehousing	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Utilities	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Information	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Financial activities	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Professional and business services	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Education and health services	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Leisure and hospitality	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Other services	</item>
+<item>  ALL EMPLOYEES, THOUSANDS Government	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Total nonfarm	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Total private	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Goods-producing	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Service-providing	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Private service-providing	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Mining and logging	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Construction	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Manufacturing	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Durable Goods	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Nondurable Goods	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Trade, transportation, and utilities	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Wholesale trade	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Retail trade	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Transportation and warehousing	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Utilities	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Information	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Financial activities	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Professional and business services	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Education and health services	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Leisure and hospitality	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Other services	</item>
+<item>  AVERAGE WEEKLY HOURS OF ALL EMPLOYEES Government</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Total nonfarm	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Total private	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Goods-producing	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Service-providing	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Private service-providing	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Mining and logging	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Construction	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Manufacturing	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Durable Goods	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Nondurable Goods	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Trade, transportation, and utilities	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Wholesale trade	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Retail trade	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Transportation and warehousing	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Utilities	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Information	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Financial activities	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Professional and business services	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Education and health services	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Leisure and hospitality	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Other services	</item>
+<item>  AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES Government</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Total nonfarm	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Total private	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Goods-producing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Service-providing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Private service-providing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Mining and logging	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Construction	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Manufacturing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Durable Goods	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Nondurable Goods	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Wholesale trade	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Retail trade	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Utilities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Information	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Financial activities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Professional and business services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Education and health services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Other services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES Government</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Total nonfarm	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Total private	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Goods-producing	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Service-providing	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Private service-providing	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Mining and logging	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Construction	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Manufacturing	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Durable Goods	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Nondurable Goods	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Trade, transportation, and utilities	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Wholesale trade	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Retail trade	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Transportation and warehousing	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Utilities	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Information	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Financial activities	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Professional and business services	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Education and health services	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Leisure and hospitality	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Other services	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Government</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Total nonfarm	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Total private	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Goods-producing	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Service-providing	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Private service-providing	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Mining and logging	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Construction	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Manufacturing	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Durable Goods	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Nondurable Goods	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Wholesale trade	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Retail trade	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Utilities	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Information	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Financial activities	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Professional and business services	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Education and health services	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Other services	</item>
+<item> AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES	Government</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Total nonfarm	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Total private	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Goods-producing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Service-providing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Private service-providing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Mining and logging	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Construction	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Manufacturing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Durable Goods	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Nondurable Goods	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Trade, transportation, and utilities	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Wholesale trade	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Retail trade	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Transportation and warehousing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Utilities	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Information	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Financial activities	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Professional and business services	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Education and health services	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Leisure and hospitality	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Other services	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Government</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Total nonfarm	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Total private	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Goods-producing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Service-providing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Private service-providing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Mining and logging	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Construction	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Manufacturing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Durable Goods	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Nondurable Goods	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Wholesale trade	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Retail trade	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Utilities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Information	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Financial activities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Professional and business services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Education and health services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Other services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Government</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Total nonfarm	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Total private	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Goods-producing	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Service-providing	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Private service-providing	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Mining and logging	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Construction	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Manufacturing	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Durable Goods	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Nondurable Goods	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Trade, transportation, and utilities	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Wholesale trade	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Retail trade	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Transportation and warehousing	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Utilities	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Information	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Financial activities	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Professional and business services	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Education and health services	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Leisure and hospitality	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Other services	</item>
+<item> WOMEN EMPLOYEES, THOUSANDS Government</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Total nonfarm	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Total private	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Goods-producing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Service-providing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Private service-providing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Mining and logging	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Construction	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Manufacturing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Durable Goods	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Nondurable Goods	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Wholesale trade	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Retail trade	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Utilities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Information	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Financial activities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Professional and business services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Education and health services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Other services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES Government</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Total nonfarm	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Total private	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Goods-producing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Service-providing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Private service-providing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Mining and logging	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Construction	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Manufacturing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Durable Goods	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Nondurable Goods	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Wholesale trade	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Retail trade	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Utilities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Information	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Financial activities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Professional and business services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Education and health services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Other services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Government</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Total nonfarm	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Total private	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Goods-producing	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Service-providing	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Private service-providing	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Mining and logging	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Construction	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Manufacturing	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Durable Goods	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Nondurable Goods	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Trade, transportation, and utilities	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Wholesale trade	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Retail trade	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Transportation and warehousing	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Utilities	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Information	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Financial activities	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Professional and business services	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Education and health services	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Leisure and hospitality	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Other services	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, 1982_1984 DOLLARS Government</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Total nonfarm	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Total private	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Goods-producing	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Service-providing	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Private service-providing	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Mining and logging	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Construction	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Manufacturing	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Durable Goods	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Nondurable Goods	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Trade, transportation, and utilities	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Wholesale trade	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Retail trade	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Transportation and warehousing	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Utilities	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Information	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Financial activities	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Professional and business services	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Education and health services	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Leisure and hospitality	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Other services	</item>
+<item> AVERAGE HOURLY EARNINGS OF ALL EMPLOYEES, EXCLUDING OVERTIME Government</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Total nonfarm	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Total private	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Goods-producing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Service-providing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Private service-providing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Mining and logging	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Construction	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Manufacturing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Durable Goods	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Nondurable Goods	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Trade, transportation, and utilities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Wholesale trade	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Retail trade	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Transportation and warehousing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Utilities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Information	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Financial activities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Professional and business services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Education and health services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Leisure and hospitality	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Other services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, 2007=100 Government</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Total nonfarm	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Total private	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Goods-producing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Service-providing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Private service-providing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Mining and logging	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Construction	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Manufacturing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Durable Goods	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Nondurable Goods	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Trade, transportation, and utilities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Wholesale trade	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Retail trade	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Transportation and warehousing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Utilities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Information	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Financial activities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Professional and business services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Education and health services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Leisure and hospitality	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Other services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, 2007=100 Government</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Total nonfarm	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Total private	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Goods-producing	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Service-providing	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Private service-providing	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Mining and logging	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Construction	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Manufacturing	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Durable Goods	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Nondurable Goods	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Wholesale trade	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Retail trade	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Utilities	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Information	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Financial activities	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Professional and business services	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Education and health services	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Other services	</item>
+<item> AVERAGE WEEKLY HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Government</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Total nonfarm	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Total private	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Goods-producing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Service-providing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Private service-providing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Mining and logging	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Construction	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Manufacturing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Durable Goods	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Nondurable Goods	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Wholesale trade	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Retail trade	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Utilities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Information	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Financial activities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Professional and business services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Education and health services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Other services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Government</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Total nonfarm	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Total private	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Goods-producing	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Service-providing	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Private service-providing	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Mining and logging	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Construction	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Manufacturing	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Durable Goods	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Nondurable Goods	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Trade, transportation, and utilities	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Wholesale trade	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Retail trade	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Transportation and warehousing	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Utilities	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Information	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Financial activities	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Professional and business services	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Education and health services	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Leisure and hospitality	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Other services	</item>
+<item> DIFFUSION INDEXES, 1-MONTH SPAN, SEASONALLY ADJUSTED Government</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Total nonfarm	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Total private	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Goods-producing	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Service-providing	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Private service-providing	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Mining and logging	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Construction	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Manufacturing	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Durable Goods	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Nondurable Goods	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Trade, transportation, and utilities	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Wholesale trade	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Retail trade	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Transportation and warehousing	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Utilities	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Information	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Financial activities	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Professional and business services	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Education and health services	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Leisure and hospitality	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Other services	</item>
+<item> DIFFUSION INDEXES, 3-MONTH SPAN, SEASONALLY ADJUSTED Government</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Total nonfarm	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Total private	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Goods-producing	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Service-providing	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Private service-providing	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Mining and logging	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Construction	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Manufacturing	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Durable Goods	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Nondurable Goods	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Trade, transportation, and utilities	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Wholesale trade	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Retail trade	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Transportation and warehousing	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Utilities	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Information	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Financial activities	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Professional and business services	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Education and health services	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Leisure and hospitality	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Other services	</item>
+<item> DIFFUSION INDEXES, 6-MONTH SPAN, SEASONALLY ADJUSTED Government</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Total nonfarm	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Total private	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Goods-producing	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Service-providing	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Private service-providing	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Mining and logging	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Construction	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Manufacturing	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Durable Goods	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Nondurable Goods	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Trade, transportation, and utilities	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Wholesale trade	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Retail trade	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Transportation and warehousing	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Utilities	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Information	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Financial activities	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Professional and business services	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Education and health services	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Leisure and hospitality	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Other services	</item>
+<item> DIFFUSION INDEXES, 12-MONTH SPAN, NOT SEASONALLY ADJUSTED Government</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Total nonfarm	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Total private	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Goods-producing	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Service-providing	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Private service-providing	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Mining and logging	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Construction	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Manufacturing	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Durable Goods	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Nondurable Goods	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Trade, transportation, and utilities	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Wholesale trade	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Retail trade	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Transportation and warehousing	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Utilities	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Information	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Financial activities	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Professional and business services	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Education and health services	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Leisure and hospitality	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Other services	</item>
+<item> ALL EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED, THOUSANDS Government</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Total nonfarm	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Total private	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Goods-producing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Service-providing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Private service-providing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Mining and logging	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Construction	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Manufacturing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Durable Goods	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Nondurable Goods	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Wholesale trade	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Retail trade	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Utilities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Information	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Financial activities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Professional and business services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Education and health services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Other services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES Government</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Total nonfarm	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Total private	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Goods-producing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Service-providing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Private service-providing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Mining and logging	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Construction	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Manufacturing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Durable Goods	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Nondurable Goods	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Wholesale trade	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Retail trade	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Utilities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Information	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Financial activities	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Professional and business services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Education and health services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Other services	</item>
+<item> AVERAGE WEEKLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS	 Government</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Total nonfarm	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Total private	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Goods-producing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Service-providing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Private service-providing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Mining and logging	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Construction	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Manufacturing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Durable Goods	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Nondurable Goods	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Trade, transportation, and utilities	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Wholesale trade	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Retail trade	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Transportation and warehousing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Utilities	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Information	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Financial activities	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Professional and business services	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Education and health services	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Leisure and hospitality	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Other services	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982_84 DOLLARS Government</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Total nonfarm	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Total private	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Goods-producing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Service-providing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Private service-providing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Mining and logging	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Construction	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Manufacturing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Durable Goods	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Nondurable Goods	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Trade, transportation, and utilities	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Wholesale trade	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Retail trade	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Transportation and warehousing	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Utilities	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Information	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Financial activities	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Professional and business services	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Education and health services	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Leisure and hospitality	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Other services	</item>
+<item> AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, EXCLUDING OVERTIME Government</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Total nonfarm	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Total private	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Goods-producing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Service-providing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Private service-providing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Mining and logging	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Construction	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Manufacturing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Durable Goods	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Nondurable Goods	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Trade, transportation, and utilities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Wholesale trade	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Retail trade	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Transportation and warehousing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Utilities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Information	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Financial activities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Professional and business services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Education and health services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Leisure and hospitality	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Other services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Government</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Total nonfarm	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Total private	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Goods-producing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Service-providing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Private service-providing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Mining and logging	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Construction	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Manufacturing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Durable Goods	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Nondurable Goods	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Trade, transportation, and utilities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Wholesale trade	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Retail trade	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Transportation and warehousing	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Utilities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Information	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Financial activities	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Professional and business services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Education and health services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Leisure and hospitality	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Other services	</item>
+<item> INDEXES OF AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 2002=100 Government</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Total nonfarm	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Total private	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Goods-producing	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Service-providing	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Private service-providing	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Mining and logging	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Construction	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Manufacturing	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Durable Goods	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Nondurable Goods	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Wholesale trade	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Retail trade	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Utilities	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Information	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Financial activities	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Professional and business services	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Education and health services	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Other services	</item>
+<item> AVERAGE WEEKLY HOURS, PRODUCTION/NONSUPERVISORY EMPLOYEES, QUARTERLY AVERAGES, SEASONALLY ADJUSTED Government</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Total nonfarm	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Total private	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Goods-producing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Service-providing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Private service-providing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Mining and logging	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Construction	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Manufacturing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Durable Goods	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Nondurable Goods	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Trade, transportation, and utilities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Wholesale trade	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Retail trade	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Transportation and warehousing	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Utilities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Information	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Financial activities	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Professional and business services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Education and health services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Leisure and hospitality	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Other services	</item>
+<item> AVERAGE WEEKLY OVERTIME HOURS,PRODUCTION/NONSUPERVISORY EMPLOYEES,QUARTERLY AVG,SEASONALLY ADJUSTED Government</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Total nonfarm	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Total private	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Goods-producing	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Service-providing	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Private service-providing	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Mining and logging	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Construction	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Manufacturing	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Durable Goods	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Nondurable Goods	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Trade, transportation, and utilities	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Wholesale trade	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Retail trade	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Transportation and warehousing	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Utilities	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Information	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Financial activities	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Professional and business services	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Education and health services	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Leisure and hospitality	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Other services	</item>
+<item> PRODUCTION AND NONSUPERVISORY EMPLOYEES-TO-ALL EMPLOYEES RATIO Government</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Total nonfarm	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Total private	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Goods-producing	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Service-providing	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Private service-providing	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Mining and logging	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Construction	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Manufacturing	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Durable Goods	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Nondurable Goods	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Trade, transportation, and utilities	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Wholesale trade	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Retail trade	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Transportation and warehousing	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Utilities	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Information	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Financial activities	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Professional and business services	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Education and health services	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Leisure and hospitality	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Other services	</item>
+<item> WOMEN EMPLOYEES-TO-ALL EMPLOYEES RATIO Government</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Total nonfarm	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Total private	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Goods-producing	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Service-providing	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Private service-providing	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Mining and logging	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Construction	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Manufacturing	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Durable Goods	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Nondurable Goods	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Trade, transportation, and utilities	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Wholesale trade	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Retail trade	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Transportation and warehousing	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Utilities	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Information	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Financial activities	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Professional and business services	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Education and health services	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Leisure and hospitality	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Other services	</item>
+<item> AGGREGATE WEEKLY HOURS OF ALL EMPLOYEES, THOUSANDS Government</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Total nonfarm	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Total private	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Goods-producing	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Service-providing	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Private service-providing	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Mining and logging	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Construction	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Manufacturing	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Durable Goods	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Nondurable Goods	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Trade, transportation, and utilities	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Wholesale trade	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Retail trade	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Transportation and warehousing	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Utilities	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Information	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Financial activities	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Professional and business services	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Education and health services	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Leisure and hospitality	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Other services	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF ALL EMPLOYEES, THOUSANDS Government</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Total nonfarm	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Total private	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Goods-producing	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Service-providing	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Private service-providing	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Mining and logging	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Construction	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Manufacturing	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Durable Goods	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Nondurable Goods	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Trade, transportation, and utilities	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Wholesale trade	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Retail trade	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Transportation and warehousing	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Utilities	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Information	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Financial activities	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Professional and business services	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Education and health services	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Leisure and hospitality	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Other services	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF ALL EMPLOYEES, THOUSANDS Government</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Total nonfarm	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Total private	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Goods-producing	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Service-providing	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Private service-providing	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Mining and logging	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Construction	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Manufacturing	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Durable Goods	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Nondurable Goods	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Trade, transportation, and utilities	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Wholesale trade	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Retail trade	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Transportation and warehousing	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Utilities	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Information	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Financial activities	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Professional and business services	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Education and health services	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Leisure and hospitality	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Other services	</item>
+<item> AGGREGATE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Government</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Total nonfarm	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Total private	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Goods-producing	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Service-providing	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Private service-providing	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Mining and logging	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Construction	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Manufacturing	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Durable Goods	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Nondurable Goods	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Trade, transportation, and utilities	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Wholesale trade	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Retail trade	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Transportation and warehousing	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Utilities	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Information	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Financial activities	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Professional and business services	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Education and health services	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Leisure and hospitality	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Other services	</item>
+<item> AGGREGATE WEEKLY PAYROLLS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Government</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Total nonfarm	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Total private	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Goods-producing	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Service-providing	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Private service-providing	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Mining and logging	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Construction	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Manufacturing	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Durable Goods	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Nondurable Goods	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Trade, transportation, and utilities	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Wholesale trade	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Retail trade	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Transportation and warehousing	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Utilities	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Information	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Financial activities	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Professional and business services	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Education and health services	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Leisure and hospitality	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Other services	</item>
+<item> AGGREGATE WEEKLY OVERTIME HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, THOUSANDS Government</item>
+  
+   </string-array>
+    
+    
+ <string-array name="keys_exhaustive">   
+ <item>CEU0000000001 </item>   
+ <item>CEU0500000001 </item>   
+ <item>CEU0600000001 </item>   
+ <item>CEU0700000001 </item>
+ <item>CEU0800000001 </item>
+ <item>CEU1000000001 </item> <item>CEU2000000001 </item> <item>CEU3000000001 </item> <item>CEU3100000001 </item> <item>CEU3200000001 </item> <item>CEU4000000001 </item> <item>CEU4100000001 </item> <item>CEU4200000001 </item> <item>CEU4300000001 </item> <item>CEU4400000001 </item> <item>CEU5000000001 </item> <item>CEU5500000001 </item> <item>CEU6000000001 </item> <item>CEU6500000001 </item> <item>CEU7000000001 </item> <item>CEU8000000001 </item> <item>CEU9000000001 </item> <item>CEU0000000002 </item> <item>CEU0500000002 </item> <item>CEU0600000002 </item> <item>CEU0700000002 </item> <item>CEU0800000002 </item> <item>CEU1000000002 </item> <item>CEU2000000002 </item> <item>CEU3000000002 </item> <item>CEU3100000002 </item> <item>CEU3200000002 </item> <item>CEU4000000002 </item> <item>CEU4100000002 </item> <item>CEU4200000002 </item> <item>CEU4300000002 </item> <item>CEU4400000002 </item> <item>CEU5000000002 </item> <item>CEU5500000002 </item> <item>CEU6000000002 </item> <item>CEU6500000002 </item> <item>CEU7000000002 </item> <item>CEU8000000002 </item> <item>CEU9000000002</item> <item>CEU0000000003 </item> <item>CEU0500000003 </item> <item>CEU0600000003 </item> <item>CEU0700000003 </item> <item>CEU0800000003 </item> <item>CEU1000000003 </item> <item>CEU2000000003 </item> <item>CEU3000000003 </item> <item>CEU3100000003 </item> <item>CEU3200000003 </item> <item>CEU4000000003 </item> <item>CEU4100000003 </item> <item>CEU4200000003 </item> <item>CEU4300000003 </item> <item>CEU4400000003 </item> <item>CEU5000000003 </item> <item>CEU5500000003 </item> <item>CEU6000000003 </item> <item>CEU6500000003 </item> <item>CEU7000000003 </item> <item>CEU8000000003 </item> <item>CEU9000000003 </item> <item>CEU0000000004 </item> <item>CEU0500000004 </item> <item>CEU0600000004 </item> <item>CEU0700000004 </item> <item>CEU0800000004 </item> <item>CEU1000000004 </item> <item>CEU2000000004 </item> <item>CEU3000000004 </item> <item>CEU3100000004 </item> <item>CEU3200000004 </item> <item>CEU4000000004 </item> <item>CEU4100000004 </item> <item>CEU4200000004 </item> <item>CEU4300000004 </item> <item>CEU4400000004 </item> <item>CEU5000000004 </item> <item>CEU5500000004 </item> <item>CEU6000000004 </item> <item>CEU6500000004 </item> <item>CEU7000000004 </item> <item>CEU8000000004 </item> <item>CEU9000000004</item> <item>CEU0000000006 </item> <item>CEU0500000006 </item> <item>CEU0600000006 </item> <item>CEU0700000006 </item> <item>CEU0800000006 </item> <item>CEU1000000006 </item> <item>CEU2000000006 </item> <item>CEU3000000006 </item> <item>CEU3100000006 </item> <item>CEU3200000006 </item> <item>CEU4000000006 </item> <item>CEU4100000006 </item> <item>CEU4200000006 </item> <item>CEU4300000006 </item> <item>CEU4400000006 </item> <item>CEU5000000006 </item> <item>CEU5500000006 </item> <item>CEU6000000006 </item> <item>CEU6500000006 </item> <item>CEU7000000006 </item> <item>CEU8000000006 </item> <item>CEU9000000006 </item> <item>CEU0000000007 </item> <item>CEU0500000007 </item> <item>CEU0600000007 </item> <item>CEU0700000007 </item> <item>CEU0800000007 </item> <item>CEU1000000007 </item> <item>CEU2000000007 </item> <item>CEU3000000007 </item> <item>CEU3100000007 </item> <item>CEU3200000007 </item> <item>CEU4000000007 </item> <item>CEU4100000007 </item> <item>CEU4200000007 </item> <item>CEU4300000007 </item> <item>CEU4400000007 </item> <item>CEU5000000007 </item> <item>CEU5500000007 </item> <item>CEU6000000007 </item> <item>CEU6500000007 </item> <item>CEU7000000007 </item> <item>CEU8000000007 </item> <item>CEU9000000007 </item> <item>CEU0000000008 </item> <item>CEU0500000008 </item> <item>CEU0600000008 </item> <item>CEU0700000008 </item> <item>CEU0800000008 </item> <item>CEU1000000008 </item> <item>CEU2000000008 </item> <item>CEU3000000008 </item> <item>CEU3100000008 </item> <item>CEU3200000008 </item> <item>CEU4000000008 </item> <item>CEU4100000008 </item> <item>CEU4200000008 </item> <item>CEU4300000008 </item> <item>CEU4400000008 </item> <item>CEU5000000008 </item> <item>CEU5500000008 </item> <item>CEU6000000008 </item> <item>CEU6500000008 </item> <item>CEU7000000008 </item> <item>CEU8000000008 </item> <item>CEU9000000008 </item> <item>CEU0000000009 </item> <item>CEU0500000009 </item> <item>CEU0600000009 </item> <item>CEU0700000009 </item> <item>CEU0800000009 </item> <item>CEU1000000009 </item> <item>CEU2000000009 </item> <item>CEU3000000009 </item> <item>CEU3100000009 </item> <item>CEU3200000009 </item> <item>CEU4000000009 </item> <item>CEU4100000009 </item> <item>CEU4200000009 </item> <item>CEU4300000009 </item> <item>CEU4400000009 </item> <item>CEU5000000009 </item> <item>CEU5500000009 </item> <item>CEU6000000009 </item> <item>CEU6500000009 </item> <item>CEU7000000009 </item> <item>CEU8000000009 </item> <item>CEU9000000009</item> <item>CEU0000000010 </item> <item>CEU0500000010 </item> <item>CEU0600000010 </item> <item>CEU0700000010 </item> <item>CEU0800000010 </item> <item>CEU1000000010 </item> <item>CEU2000000010 </item> <item>CEU3000000010 </item> <item>CEU3100000010 </item> <item>CEU3200000010 </item> <item>CEU4000000010 </item> <item>CEU4100000010 </item> <item>CEU4200000010 </item> <item>CEU4300000010 </item> <item>CEU4400000010 </item> <item>CEU5000000010 </item> <item>CEU5500000010 </item> <item>CEU6000000010 </item> <item>CEU6500000010 </item> <item>CEU7000000010 </item> <item>CEU8000000010 </item> <item>CEU9000000010</item> <item>CEU0000000011 </item> <item>CEU0500000011 </item> <item>CEU0600000011 </item> <item>CEU0700000011 </item> <item>CEU0800000011 </item> <item>CEU1000000011 </item> <item>CEU2000000011 </item> <item>CEU3000000011 </item> <item>CEU3100000011 </item> <item>CEU3200000011 </item> <item>CEU4000000011 </item> <item>CEU4100000011 </item> <item>CEU4200000011 </item> <item>CEU4300000011 </item> <item>CEU4400000011 </item> <item>CEU5000000011 </item> <item>CEU5500000011 </item> <item>CEU6000000011 </item> <item>CEU6500000011 </item> <item>CEU7000000011 </item> <item>CEU8000000011 </item> <item>CEU9000000011</item> <item>CEU0000000012 </item> <item>CEU0500000012 </item> <item>CEU0600000012 </item> <item>CEU0700000012 </item> <item>CEU0800000012 </item> <item>CEU1000000012 </item> <item>CEU2000000012 </item> <item>CEU3000000012 </item> <item>CEU3100000012 </item> <item>CEU3200000012 </item> <item>CEU4000000012 </item> <item>CEU4100000012 </item> <item>CEU4200000012 </item> <item>CEU4300000012 </item> <item>CEU4400000012 </item> <item>CEU5000000012 </item> <item>CEU5500000012 </item> <item>CEU6000000012 </item> <item>CEU6500000012 </item> <item>CEU7000000012 </item> <item>CEU8000000012 </item> <item>CEU9000000012</item> <item>CEU0000000013 </item> <item>CEU0500000013 </item> <item>CEU0600000013 </item> <item>CEU0700000013 </item> <item>CEU0800000013 </item> <item>CEU1000000013 </item> <item>CEU2000000013 </item> <item>CEU3000000013 </item> <item>CEU3100000013 </item> <item>CEU3200000013 </item> <item>CEU4000000013 </item> <item>CEU4100000013 </item> <item>CEU4200000013 </item> <item>CEU4300000013 </item> <item>CEU4400000013 </item> <item>CEU5000000013 </item> <item>CEU5500000013 </item> <item>CEU6000000013 </item> <item>CEU6500000013 </item> <item>CEU7000000013 </item> <item>CEU8000000013 </item> <item>CEU9000000013</item> <item>CEU0000000015 </item> <item>CEU0500000015 </item> <item>CEU0600000015 </item> <item>CEU0700000015 </item> <item>CEU0800000015 </item> <item>CEU1000000015 </item> <item>CEU2000000015 </item> <item>CEU3000000015 </item> <item>CEU3100000015 </item> <item>CEU3200000015 </item> <item>CEU4000000015 </item> <item>CEU4100000015 </item> <item>CEU4200000015 </item> <item>CEU4300000015 </item> <item>CEU4400000015 </item> <item>CEU5000000015 </item> <item>CEU5500000015 </item> <item>CEU6000000015 </item> <item>CEU6500000015 </item> <item>CEU7000000015 </item> <item>CEU8000000015 </item> <item>CEU9000000015</item> <item>CEU0000000016 </item> <item>CEU0500000016 </item> <item>CEU0600000016 </item> <item>CEU0700000016 </item> <item>CEU0800000016 </item> <item>CEU1000000016 </item> <item>CEU2000000016 </item> <item>CEU3000000016 </item> <item>CEU3100000016 </item> <item>CEU3200000016 </item> <item>CEU4000000016 </item> <item>CEU4100000016 </item> <item>CEU4200000016 </item> <item>CEU4300000016 </item> <item>CEU4400000016 </item> <item>CEU5000000016 </item> <item>CEU5500000016 </item> <item>CEU6000000016 </item> <item>CEU6500000016 </item> <item>CEU7000000016 </item> <item>CEU8000000016 </item> <item>CEU9000000016</item> <item>CEU0000000017 </item> <item>CEU0500000017 </item> <item>CEU0600000017 </item> <item>CEU0700000017 </item> <item>CEU0800000017 </item> <item>CEU1000000017 </item> <item>CEU2000000017 </item> <item>CEU3000000017 </item> <item>CEU3100000017 </item> <item>CEU3200000017 </item> <item>CEU4000000017 </item> <item>CEU4100000017 </item> <item>CEU4200000017 </item> <item>CEU4300000017 </item> <item>CEU4400000017 </item> <item>CEU5000000017 </item> <item>CEU5500000017 </item> <item>CEU6000000017 </item> <item>CEU6500000017 </item> <item>CEU7000000017 </item> <item>CEU8000000017 </item> <item>CEU9000000017</item> <item>CEU0000000019 </item> <item>CEU0500000019 </item> <item>CEU0600000019 </item> <item>CEU0700000019 </item> <item>CEU0800000019 </item> <item>CEU1000000019 </item> <item>CEU2000000019 </item> <item>CEU3000000019 </item> <item>CEU3100000019 </item> <item>CEU3200000019 </item> <item>CEU4000000019 </item> <item>CEU4100000019 </item> <item>CEU4200000019 </item> <item>CEU4300000019 </item> <item>CEU4400000019 </item> <item>CEU5000000019 </item> <item>CEU5500000019 </item> <item>CEU6000000019 </item> <item>CEU6500000019 </item> <item>CEU7000000019 </item> <item>CEU8000000019 </item> <item>CEU9000000019</item> <item>CEU0000000020 </item> <item>CEU0500000020 </item> <item>CEU0600000020 </item> <item>CEU0700000020 </item> <item>CEU0800000020 </item> <item>CEU1000000020 </item> <item>CEU2000000020 </item> <item>CEU3000000020 </item> <item>CEU3100000020 </item> <item>CEU3200000020 </item> <item>CEU4000000020 </item> <item>CEU4100000020 </item> <item>CEU4200000020 </item> <item>CEU4300000020 </item> <item>CEU4400000020 </item> <item>CEU5000000020 </item> <item>CEU5500000020 </item> <item>CEU6000000020 </item> <item>CEU6500000020 </item> <item>CEU7000000020 </item> <item>CEU8000000020 </item> <item>CEU9000000020</item> <item>CEU0000000021 </item> <item>CEU0500000021 </item> <item>CEU0600000021 </item> <item>CEU0700000021 </item> <item>CEU0800000021 </item> <item>CEU1000000021 </item> <item>CEU2000000021 </item> <item>CEU3000000021 </item> <item>CEU3100000021 </item> <item>CEU3200000021 </item> <item>CEU4000000021 </item> <item>CEU4100000021 </item> <item>CEU4200000021 </item> <item>CEU4300000021 </item> <item>CEU4400000021 </item> <item>CEU5000000021 </item> <item>CEU5500000021 </item> <item>CEU6000000021 </item> <item>CEU6500000021 </item> <item>CEU7000000021 </item> <item>CEU8000000021 </item> <item>CEU9000000021</item> <item>CEU0000000022 </item> <item>CEU0500000022 </item> <item>CEU0600000022 </item> <item>CEU0700000022 </item> <item>CEU0800000022 </item> <item>CEU1000000022 </item> <item>CEU2000000022 </item> <item>CEU3000000022 </item> <item>CEU3100000022 </item> <item>CEU3200000022 </item> <item>CEU4000000022 </item> <item>CEU4100000022 </item> <item>CEU4200000022 </item> <item>CEU4300000022 </item> <item>CEU4400000022 </item> <item>CEU5000000022 </item> <item>CEU5500000022 </item> <item>CEU6000000022 </item> <item>CEU6500000022 </item> <item>CEU7000000022 </item> <item>CEU8000000022 </item> <item>CEU9000000022</item> <item>CEU0000000023 </item> <item>CEU0500000023 </item> <item>CEU0600000023 </item> <item>CEU0700000023 </item> <item>CEU0800000023 </item> <item>CEU1000000023 </item> <item>CEU2000000023 </item> <item>CEU3000000023 </item> <item>CEU3100000023 </item> <item>CEU3200000023 </item> <item>CEU4000000023 </item> <item>CEU4100000023 </item> <item>CEU4200000023 </item> <item>CEU4300000023 </item> <item>CEU4400000023 </item> <item>CEU5000000023 </item> <item>CEU5500000023 </item> <item>CEU6000000023 </item> <item>CEU6500000023 </item> <item>CEU7000000023 </item> <item>CEU8000000023 </item> <item>CEU9000000023</item> <item>CEU0000000024 </item> <item>CEU0500000024 </item> <item>CEU0600000024 </item> <item>CEU0700000024 </item> <item>CEU0800000024 </item> <item>CEU1000000024 </item> <item>CEU2000000024 </item> <item>CEU3000000024 </item> <item>CEU3100000024 </item> <item>CEU3200000024 </item> <item>CEU4000000024 </item> <item>CEU4100000024 </item> <item>CEU4200000024 </item> <item>CEU4300000024 </item> <item>CEU4400000024 </item> <item>CEU5000000024 </item> <item>CEU5500000024 </item> <item>CEU6000000024 </item> <item>CEU6500000024 </item> <item>CEU7000000024 </item> <item>CEU8000000024 </item> <item>CEU9000000024</item> <item>CEU0000000025 </item> <item>CEU0500000025 </item> <item>CEU0600000025 </item> <item>CEU0700000025 </item> <item>CEU0800000025 </item> <item>CEU1000000025 </item> <item>CEU2000000025 </item> <item>CEU3000000025 </item> <item>CEU3100000025 </item> <item>CEU3200000025 </item> <item>CEU4000000025 </item> <item>CEU4100000025 </item> <item>CEU4200000025 </item> <item>CEU4300000025 </item> <item>CEU4400000025 </item> <item>CEU5000000025 </item> <item>CEU5500000025 </item> <item>CEU6000000025 </item> <item>CEU6500000025 </item> <item>CEU7000000025 </item> <item>CEU8000000025 </item> <item>CEU9000000025</item> <item>CEU0000000030 </item> <item>CEU0500000030 </item> <item>CEU0600000030 </item> <item>CEU0700000030 </item> <item>CEU0800000030 </item> <item>CEU1000000030 </item> <item>CEU2000000030 </item> <item>CEU3000000030 </item> <item>CEU3100000030 </item> <item>CEU3200000030 </item> <item>CEU4000000030 </item> <item>CEU4100000030 </item> <item>CEU4200000030 </item> <item>CEU4300000030 </item> <item>CEU4400000030 </item> <item>CEU5000000030 </item> <item>CEU5500000030 </item> <item>CEU6000000030 </item> <item>CEU6500000030 </item> <item>CEU7000000030 </item> <item>CEU8000000030 </item> <item>CEU9000000030</item> <item>CEU0000000031 </item> <item>CEU0500000031 </item> <item>CEU0600000031 </item> <item>CEU0700000031 </item> <item>CEU0800000031 </item> <item>CEU1000000031 </item> <item>CEU2000000031 </item> <item>CEU3000000031 </item> <item>CEU3100000031 </item> <item>CEU3200000031 </item> <item>CEU4000000031 </item> <item>CEU4100000031 </item> <item>CEU4200000031 </item> <item>CEU4300000031 </item> <item>CEU4400000031 </item> <item>CEU5000000031 </item> <item>CEU5500000031 </item> <item>CEU6000000031 </item> <item>CEU6500000031 </item> <item>CEU7000000031 </item> <item>CEU8000000031 </item> <item>CEU9000000031</item> <item>CEU0000000032 </item> <item>CEU0500000032 </item> <item>CEU0600000032 </item> <item>CEU0700000032 </item> <item>CEU0800000032 </item> <item>CEU1000000032 </item> <item>CEU2000000032 </item> <item>CEU3000000032 </item> <item>CEU3100000032 </item> <item>CEU3200000032 </item> <item>CEU4000000032 </item> <item>CEU4100000032 </item> <item>CEU4200000032 </item> <item>CEU4300000032 </item> <item>CEU4400000032 </item> <item>CEU5000000032 </item> <item>CEU5500000032 </item> <item>CEU6000000032 </item> <item>CEU6500000032 </item> <item>CEU7000000032 </item> <item>CEU8000000032 </item> <item>CEU9000000032</item> <item>CEU0000000033 </item> <item>CEU0500000033 </item> <item>CEU0600000033 </item> <item>CEU0700000033 </item> <item>CEU0800000033 </item> <item>CEU1000000033 </item> <item>CEU2000000033 </item> <item>CEU3000000033 </item> <item>CEU3100000033 </item> <item>CEU3200000033 </item> <item>CEU4000000033 </item> <item>CEU4100000033 </item> <item>CEU4200000033 </item> <item>CEU4300000033 </item> <item>CEU4400000033 </item> <item>CEU5000000033 </item> <item>CEU5500000033 </item> <item>CEU6000000033 </item> <item>CEU6500000033 </item> <item>CEU7000000033 </item> <item>CEU8000000033 </item> <item>CEU9000000033</item> <item>CEU0000000034 </item> <item>CEU0500000034 </item> <item>CEU0600000034 </item> <item>CEU0700000034 </item> <item>CEU0800000034 </item> <item>CEU1000000034 </item> <item>CEU2000000034 </item> <item>CEU3000000034 </item> <item>CEU3100000034 </item> <item>CEU3200000034 </item> <item>CEU4000000034 </item> <item>CEU4100000034 </item> <item>CEU4200000034 </item> <item>CEU4300000034 </item> <item>CEU4400000034 </item> <item>CEU5000000034 </item> <item>CEU5500000034 </item> <item>CEU6000000034 </item> <item>CEU6500000034 </item> <item>CEU7000000034 </item> <item>CEU8000000034 </item> <item>CEU9000000034</item> <item>CEU0000000035 </item> <item>CEU0500000035 </item> <item>CEU0600000035 </item> <item>CEU0700000035 </item> <item>CEU0800000035 </item> <item>CEU1000000035 </item> <item>CEU2000000035 </item> <item>CEU3000000035 </item> <item>CEU3100000035 </item> <item>CEU3200000035 </item> <item>CEU4000000035 </item> <item>CEU4100000035 </item> <item>CEU4200000035 </item> <item>CEU4300000035 </item> <item>CEU4400000035 </item> <item>CEU5000000035 </item> <item>CEU5500000035 </item> <item>CEU6000000035 </item> <item>CEU6500000035 </item> <item>CEU7000000035 </item> <item>CEU8000000035 </item> <item>CEU9000000035</item> <item>CEU0000000036 </item> <item>CEU0500000036 </item> <item>CEU0600000036 </item> <item>CEU0700000036 </item> <item>CEU0800000036 </item> <item>CEU1000000036 </item> <item>CEU2000000036 </item> <item>CEU3000000036 </item> <item>CEU3100000036 </item> <item>CEU3200000036 </item> <item>CEU4000000036 </item> <item>CEU4100000036 </item> <item>CEU4200000036 </item> <item>CEU4300000036 </item> <item>CEU4400000036 </item> <item>CEU5000000036 </item> <item>CEU5500000036 </item> <item>CEU6000000036 </item> <item>CEU6500000036 </item> <item>CEU7000000036 </item> <item>CEU8000000036 </item> <item>CEU9000000036</item> <item>CEU0000000037 </item> <item>CEU0500000037 </item> <item>CEU0600000037 </item> <item>CEU0700000037 </item> <item>CEU0800000037 </item> <item>CEU1000000037 </item> <item>CEU2000000037 </item> <item>CEU3000000037 </item> <item>CEU3100000037 </item> <item>CEU3200000037 </item> <item>CEU4000000037 </item> <item>CEU4100000037 </item> <item>CEU4200000037 </item> <item>CEU4300000037 </item> <item>CEU4400000037 </item> <item>CEU5000000037 </item> <item>CEU5500000037 </item> <item>CEU6000000037 </item> <item>CEU6500000037 </item> <item>CEU7000000037 </item> <item>CEU8000000037 </item> <item>CEU9000000037</item> <item>CEU0000000038 </item> <item>CEU0500000038 </item> <item>CEU0600000038 </item> <item>CEU0700000038 </item> <item>CEU0800000038 </item> <item>CEU1000000038 </item> <item>CEU2000000038 </item> <item>CEU3000000038 </item> <item>CEU3100000038 </item> <item>CEU3200000038 </item> <item>CEU4000000038 </item> <item>CEU4100000038 </item> <item>CEU4200000038 </item> <item>CEU4300000038 </item> <item>CEU4400000038 </item> <item>CEU5000000038 </item> <item>CEU5500000038 </item> <item>CEU6000000038 </item> <item>CEU6500000038 </item> <item>CEU7000000038 </item> <item>CEU8000000038 </item> <item>CEU9000000038</item> <item>CEU0000000039 </item> <item>CEU0500000039 </item> <item>CEU0600000039 </item> <item>CEU0700000039 </item> <item>CEU0800000039 </item> <item>CEU1000000039 </item> <item>CEU2000000039 </item> <item>CEU3000000039 </item> <item>CEU3100000039 </item> <item>CEU3200000039 </item> <item>CEU4000000039 </item> <item>CEU4100000039 </item> <item>CEU4200000039 </item> <item>CEU4300000039 </item> <item>CEU4400000039 </item> <item>CEU5000000039 </item> <item>CEU5500000039 </item> <item>CEU6000000039 </item> <item>CEU6500000039 </item> <item>CEU7000000039 </item> <item>CEU8000000039 </item> <item>CEU9000000039</item> <item>CEU0000000056 </item> <item>CEU0500000056 </item> <item>CEU0600000056 </item> <item>CEU0700000056 </item> <item>CEU0800000056 </item> <item>CEU1000000056 </item> <item>CEU2000000056 </item> <item>CEU3000000056 </item> <item>CEU3100000056 </item> <item>CEU3200000056 </item> <item>CEU4000000056 </item> <item>CEU4100000056 </item> <item>CEU4200000056 </item> <item>CEU4300000056 </item> <item>CEU4400000056 </item> <item>CEU5000000056 </item> <item>CEU5500000056 </item> <item>CEU6000000056 </item> <item>CEU6500000056 </item> <item>CEU7000000056 </item> <item>CEU8000000056 </item> <item>CEU9000000056</item> <item>CEU0000000057 </item> <item>CEU0500000057 </item> <item>CEU0600000057 </item> <item>CEU0700000057 </item> <item>CEU0800000057 </item> <item>CEU1000000057 </item> <item>CEU2000000057 </item> <item>CEU3000000057 </item> <item>CEU3100000057 </item> <item>CEU3200000057 </item> <item>CEU4000000057 </item> <item>CEU4100000057 </item> <item>CEU4200000057 </item> <item>CEU4300000057 </item> <item>CEU4400000057 </item> <item>CEU5000000057 </item> <item>CEU5500000057 </item> <item>CEU6000000057 </item> <item>CEU6500000057 </item> <item>CEU7000000057 </item> <item>CEU8000000057 </item> <item>CEU9000000057</item> <item>CEU0000000058 </item> <item>CEU0500000058 </item> <item>CEU0600000058 </item> <item>CEU0700000058 </item> <item>CEU0800000058 </item> <item>CEU1000000058 </item> <item>CEU2000000058 </item> <item>CEU3000000058 </item> <item>CEU3100000058 </item> <item>CEU3200000058 </item> <item>CEU4000000058 </item> <item>CEU4100000058 </item> <item>CEU4200000058 </item> <item>CEU4300000058 </item> <item>CEU4400000058 </item> <item>CEU5000000058 </item> <item>CEU5500000058 </item> <item>CEU6000000058 </item> <item>CEU6500000058 </item> <item>CEU7000000058 </item> <item>CEU8000000058 </item> <item>CEU9000000058</item> <item>CEU0000000081 </item> <item>CEU0500000081 </item> <item>CEU0600000081 </item> <item>CEU0700000081 </item> <item>CEU0800000081 </item> <item>CEU1000000081 </item> <item>CEU2000000081 </item> <item>CEU3000000081 </item> <item>CEU3100000081 </item> <item>CEU3200000081 </item> <item>CEU4000000081 </item> <item>CEU4100000081 </item> <item>CEU4200000081 </item> <item>CEU4300000081 </item> <item>CEU4400000081 </item> <item>CEU5000000081 </item> <item>CEU5500000081 </item> <item>CEU6000000081 </item> <item>CEU6500000081 </item> <item>CEU7000000081 </item> <item>CEU8000000081 </item> <item>CEU9000000081</item> <item>CEU0000000082</item> <item>CEU0500000082</item> <item>CEU0600000082</item> <item>CEU0700000082</item> <item>CEU0800000082</item> <item>CEU1000000082</item> <item>CEU2000000082</item> <item>CEU3000000082</item> <item>CEU3100000082</item> <item>CEU3200000082</item> <item>CEU4000000082</item> <item>CEU4100000082</item> <item>CEU4200000082</item> <item>CEU4300000082</item> <item>CEU4400000082</item> <item>CEU5000000082</item> <item>CEU5500000082</item> <item>CEU6000000082</item> <item>CEU6500000082</item> <item>CEU7000000082</item> <item>CEU8000000082</item> <item>CEU9000000082</item> <item>CEU0000000083 </item> <item>CEU0500000083 </item> <item>CEU0600000083 </item> <item>CEU0700000083 </item> <item>CEU0800000083 </item> <item>CEU1000000083 </item> <item>CEU2000000083 </item> <item>CEU3000000083 </item> <item>CEU3100000083 </item> <item>CEU3200000083 </item> <item>CEU4000000083 </item> <item>CEU4100000083 </item> <item>CEU4200000083 </item> <item>CEU4300000083 </item> <item>CEU4400000083 </item> <item>CEU5000000083 </item> <item>CEU5500000083 </item> <item>CEU6000000083 </item> <item>CEU6500000083 </item> <item>CEU7000000083 </item> <item>CEU8000000083 </item> <item>CEU9000000083</item> <item>CEU0000000098 </item>
+    
+  </string-array>
+
+
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+

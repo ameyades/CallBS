@@ -1,0 +1,88 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" 
+ >
+
+
+    
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Hello_Blurb"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="20sp"
+        
+        />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Instructional_Blurb"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="20sp"
+        
+        />
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal"
+        >
+
+    <Button android:id="@+id/btndud1"
+                android:visibility="invisible"
+                android:layout_width="250dp"
+            	android:layout_height="150dp"
+                       />
+        
+        
+    <ImageButton
+        	 android:visibility="invisible"
+            android:id="@+id/btnSpeak"
+            android:contentDescription="@null"
+            android:layout_width="150dip"
+            android:layout_height="150dip"
+            android:background="@null"
+            android:src="@drawable/mic" 
+            android:layout_gravity="center"
+      
+    
+            />
+
+    </LinearLayout>	
+    
+    
+        
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textid1" 
+        android:text="@string/voice_input"
+        android:visibility="gone"
+        android:gravity="center"
+        />
+        
+    
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+>
+    
+<AutoCompleteTextView 
+        android:id="@+id/locationspinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      
+        android:visibility="gone"
+    />    
+    
+    
+</LinearLayout>    
+</LinearLayout>
